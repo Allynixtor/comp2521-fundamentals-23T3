@@ -47,4 +47,4 @@ The line is not a palindrome!
 - You are allowed to make other functions, but **must not use loops**.
 ## Solution
 
-You can view the solution code to this problem [here](https://github.com/Allynixtor/comp2521-fundamentals-23T3/blob/main/solutions/palindrome/palindrome.c).
+You can view the solution code to this problem [here](https://github.com/Allynixtor/comp2521-fundamentals-23T3/blob/main/problems/palindrome/solution.c).

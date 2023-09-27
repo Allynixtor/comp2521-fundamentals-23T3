@@ -49,4 +49,4 @@ POGGERS POGU POG
 
 ## Solution
 
-You can view the solution code to this problem [here](https://github.com/Allynixtor/comp2521-fundamentals-23T3/blob/main/solutions/poggers/poggers.c).
+You can view the solution code to this problem [here](https://github.com/Allynixtor/comp2521-fundamentals-23T3/blob/main/problems/poggers/solution.c).
