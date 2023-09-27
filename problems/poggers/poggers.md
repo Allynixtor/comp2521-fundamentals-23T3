@@ -57,4 +57,4 @@ $ 2521 csesoc-autotest poggers
 
 ## Solution
 
-You can view the solution code to this problem [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+You can view the solution code to this problem [here](https://github.com/Allynixtor/comp2521-fundamentals-23T3/blob/main/problems/poggers/solution.c).
