@@ -47,14 +47,6 @@ POGGERS POGU POG
 
 - You are allowed to make other functions, but **must not use any loops**.
 
-## CSE Autotest
-
-When you think your program is working, you can use CSE autotest to test your solution if anyone can be bothered to make it.
-
-```bash:~/2521-fundamentals/poggers
-$ 2521 csesoc-autotest poggers
-```
-
 ## Solution
 
-You can view the solution code to this problem [here](https://github.com/Allynixtor/comp2521-fundamentals-23T3/blob/main/problems/poggers/solution.c).
+You can view the solution code to this problem [here](https://github.com/Allynixtor/comp2521-fundamentals-23T3/blob/main/solutions/poggers/poggers.c).

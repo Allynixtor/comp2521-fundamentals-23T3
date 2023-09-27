@@ -28,20 +28,23 @@ Enter a line: racecars
 The line is not a palindrome!
 ```
 
+```bash:~/2521-fundamentals/palindrome
+$ ./is_palindromic
+Enter a line: maam
+The line is a palindrome!
+```
+
+```bash:~/2521-fundamentals/palindrome
+$ ./is_palindromic
+Enter a line: eeteee
+The line is not a palindrome!
+```
+
 ## Assumptions/Restrictions/Clarifications
 
 - The main function handles replacing the newline with a null-terminator
 - The input line string will be of length $N$ ($0 ≤ N ≤ 1024$)
 - You are allowed to make other functions, but **must not use loops**.
-
-## CSE Autotest
-
-When you think your program is working, you can use CSE autotest to test your solution if anyone can be bothered to make it.
-
-```bash:~/2521-fundamentals/palindrome
-$ 2521 csesoc-autotest palindrome
-```
-
 ## Solution
 
-You can view the solution code to this problem [here](https://github.com/Allynixtor/comp2521-fundamentals-23T3/blob/main/problems/palindrome/solution.c).
+You can view the solution code to this problem [here](https://github.com/Allynixtor/comp2521-fundamentals-23T3/blob/main/solutions/palindrome/palindrome.c).
